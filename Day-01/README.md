@@ -1,4 +1,3 @@
-```markdown
 # Band Name Generator 🎸
 
 A simple app built with [Streamlit](https://streamlit.io/) that generates a band name based on your city and pet's name.
