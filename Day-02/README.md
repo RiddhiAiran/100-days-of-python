@@ -1,4 +1,4 @@
-# Band Name Generator 🎸
+# Tip Calculator 🎸
 
 A simple app built with [Streamlit](https://streamlit.io/) that Calculates Tip.
 ## How to Run
