@@ -6,4 +6,4 @@ Tip = st.number_input("How much tip would you like to give? ", min_value = 0.0, 
 Split = st.number_input("How many people to split the bill? (atleast 1)", min_value = 1)
 total = (Bill + Tip)/Split
 
-st.write("Each person should pay : " + total)
+st.write(f"Each person should pay : " + {total})
