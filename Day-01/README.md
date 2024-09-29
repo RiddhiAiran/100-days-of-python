@@ -1,5 +1,3 @@
-Here’s your `README.md` file content:
-
 ```markdown
 # Band Name Generator 🎸
 
