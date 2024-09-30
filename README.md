@@ -28,9 +28,9 @@ Throughout this challenge, I'll be working with the following tools and librarie
 ## 🤝 Let’s Connect!
 Feel free to reach out if you want to collaborate or have any questions:
 
-- **GitHub**: [riddhiairan](https://lnkd.in/e74KHpc8)
+- **GitHub**: [riddhiairan](https://github.com/Riddhiairan)
 - **Twitter**: [@riddhiairan](https://x.com/riddhiairan)
-- **LinkedIn**: [Riddhi Airan](https://lnkd.in/enFEJQ7M)
+- **LinkedIn**: [Riddhi Airan](https://www.linkedin.com/in/riddhiairann/)
 
 ## 🔥 Let's make this an epic learning experience!
 Join me on this journey of mastering Python and building awesome projects! 💪
